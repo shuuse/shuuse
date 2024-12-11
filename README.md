@@ -47,6 +47,7 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-222222.svg?logo=unity&logoColor=white">
+  <img alt="NVIDIA Deepstream" src="https://img.shields.io/badge/NVIDIA%20Deepstream-76B900.svg?logo=nvidia&logoColor=white">
 </p>
 
 #### **Databases**
@@ -64,6 +65,9 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white">
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?logo=nginx&logoColor=white">
   <img alt="Windows IIS" src="https://img.shields.io/badge/Windows%20IIS-0078D6.svg?logo=microsoft&logoColor=white">
+  <img alt="Home Assistant" src="https://img.shields.io/badge/Home%20Assistant-41BDF5.svg?logo=home-assistant&logoColor=white">
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846.svg?logo=raspberry-pi&logoColor=white">
+  <img alt="ESP32" src="https://img.shields.io/badge/ESP32-000000.svg?logo=espressif&logoColor=white">
 </p>
 
 #### **IDEs and Editors**
@@ -89,6 +93,7 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoft-azure&logoColor=white">
 </p>
+
 
 ---
 
