@@ -25,19 +25,20 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
-  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white">
+  <img alt="ABAP" src="https://img.shields.io/badge/ABAP-24292F.svg?logo=sap&logoColor=white">
   <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white">
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white">
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
   <img alt="Delphi" src="https://img.shields.io/badge/Delphi-EE1F35.svg?logo=delphi&logoColor=white">
   <img alt="Visual Basic" src="https://img.shields.io/badge/Visual%20Basic-5C2D91.svg?logo=dotnet&logoColor=white">
-  <img alt="ABAP" src="https://img.shields.io/badge/ABAP-24292F.svg?logo=sap&logoColor=white">
 </p>
 
 #### **Frameworks and Libraries**
 <p>
+  <img alt="NVIDIA Deepstream" src="https://img.shields.io/badge/NVIDIA%20Deepstream-76B900.svg?logo=nvidia&logoColor=white">
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white">
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white">
   <img alt="TorchVision" src="https://img.shields.io/badge/TorchVision-EE4C2C.svg?logo=pytorch&logoColor=white">
@@ -47,7 +48,6 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white">
   <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
   <img alt="Unity" src="https://img.shields.io/badge/Unity-222222.svg?logo=unity&logoColor=white">
-  <img alt="NVIDIA Deepstream" src="https://img.shields.io/badge/NVIDIA%20Deepstream-76B900.svg?logo=nvidia&logoColor=white">
 </p>
 
 #### **Databases**
