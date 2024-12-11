@@ -4,8 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="mailto:shuuse@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail"></a>
   <a href="https://www.linkedin.com/in/simenhuuse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://x.com/simenhuuse"><img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="X"></a>
+  <a href="https://bsky.app/profile/shuuse.bsky.social"><img src="https://img.shields.io/badge/BlueSky-0057FF?logo=bluesky&logoColor=white&style=for-the-badge" alt="BlueSky"></a>
+  <a href="https://github.com/shuuse"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
 </p>
 
 <p align="center">
@@ -97,7 +99,9 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
 ---
 
 ### 🔗 Connect With Me
-<p>
-  <a href="mailto:shuuse@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/simenhuuse"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/simenhuuse"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"></a>
+  <a href="https://x.com/simenhuuse"><img src="https://img.shields.io/badge/X-1DA1F2?logo=x&logoColor=white&style=for-the-badge" alt="X"></a>
+  <a href="https://bsky.app/profile/shuuse.bsky.social"><img src="https://img.shields.io/badge/BlueSky-0057FF?logo=bluesky&logoColor=white&style=for-the-badge" alt="BlueSky"></a>
+  <a href="https://github.com/shuuse"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
 </p>
