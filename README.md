@@ -22,10 +22,11 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
 ### 📝 Latest Blog Posts
 - [Keeping your data alive and meaningful with SAP Knowledge Graph](https://medium.com/@shuuse/keeping-your-data-alive-and-meaningful-with-sap-knowledge-graph-a01ea0c50667)
 - [The next era of SAP insights](https://medium.com/@shuuse/the-next-era-of-sap-insights-05fc9cab47a5)
-- [ChatTDD VS Code]([https://medium.com/link-to-blog-3](https://medium.com/@shuuse/chattdd-vs-code-86b46d99f57f))
+- [ChatTDD VS Code](https://medium.com/@shuuse/chattdd-vs-code-86b46d99f57f)
 - [The AI-Driven Paradigm](https://medium.com/@shuuse/the-ai-driven-paradigm-9bb7b89feeda)
 
 🔗 **[View all my articles on Medium](https://medium.com/@shuuse)**
+
   
 ### 🛠️ My Arsenal
 
