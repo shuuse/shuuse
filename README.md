@@ -10,14 +10,6 @@
   <a href="https://github.com/shuuse"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Exploring+AI,+IoT,+and+Cloud!" alt="Typing SVG" />
-</p>
-
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,swift,c,cpp,docker,git,linux,aws,gcp,azure" alt="Tech Stack" />
-</p>
 ---
 
 ### 👨‍💻 About Me
@@ -26,6 +18,14 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
 ### 📄 Featured Research
 - **[Deep Convolutional Generative Adversarial Networks: Execution and Tuning](https://www.academia.edu/41276991/Deep_Convolutional_Generative_Adversarial_Networks_Execution_and_tuning)**  
   This research dives into the intricacies of DCGANs, their execution, and optimal tuning techniques.
+
+### 📝 Latest Blog Posts
+- [Keeping your data alive and meaningful with SAP Knowledge Graph](https://medium.com/@shuuse/keeping-your-data-alive-and-meaningful-with-sap-knowledge-graph-a01ea0c50667)
+- [The next era of SAP insights](https://medium.com/@shuuse/the-next-era-of-sap-insights-05fc9cab47a5)
+- [ChatTDD VS Code]([https://medium.com/link-to-blog-3](https://medium.com/@shuuse/chattdd-vs-code-86b46d99f57f))
+- [The AI-Driven Paradigm](https://medium.com/@shuuse/the-ai-driven-paradigm-9bb7b89feeda)
+
+🔗 **[View all my articles on Medium](https://medium.com/@shuuse)**
   
 ### 🛠️ My Arsenal
 
