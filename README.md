@@ -11,14 +11,22 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/simenhuuse"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub;Technologist+and+Innovator;Let's+build+something+awesome!" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=4A71D9&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;Exploring+AI,+IoT,+and+Cloud!" alt="Typing SVG" />
 </p>
 
+### 💻 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,swift,c,cpp,docker,git,linux,aws,gcp,azure" alt="Tech Stack" />
+</p>
 ---
 
 ### 👨‍💻 About Me
 I am a technology enthusiast with expertise spanning software development, AI/ML, and cloud computing. From full-stack development to immersive applications, I am passionate about leveraging technology to solve real-world problems.
 
+### 📄 Featured Research
+- **[Deep Convolutional Generative Adversarial Networks: Execution and Tuning](https://www.academia.edu/41276991/Deep_Convolutional_Generative_Adversarial_Networks_Execution_and_tuning)**  
+  This research dives into the intricacies of DCGANs, their execution, and optimal tuning techniques.
+  
 ### 🛠️ My Arsenal
 
 #### **Programming Languages**
