@@ -25,7 +25,7 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
 - [ChatTDD VS Code](https://medium.com/@shuuse/chattdd-vs-code-86b46d99f57f)
 - [The AI-Driven Paradigm](https://medium.com/@shuuse/the-ai-driven-paradigm-9bb7b89feeda)
 
-🔗 **[View all my articles on Medium](https://medium.com/@shuuse)**
+🔗 **[View my articles on Medium](https://medium.com/@shuuse)**
 
   
 ### 🛠️ My Arsenal
@@ -102,13 +102,6 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white">
   <img alt="Azure" src="https://img.shields.io/badge/Azure-0078D4.svg?logo=microsoft-azure&logoColor=white">
 </p>
-
-
----
-
-### 🌍 Languages
-- Fluent: **English**, **Norwegian**
-- Basic Understanding: **French**, **Italian**, **German**
 
 ---
 
