@@ -33,9 +33,9 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
 #### **Programming Languages**
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white">
+  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
   <img alt="ABAP" src="https://img.shields.io/badge/ABAP-24292F.svg?logo=sap&logoColor=white">
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343.svg?logo=swift&logoColor=white">
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?logo=java&logoColor=white">
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white">
