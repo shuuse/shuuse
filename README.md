@@ -114,20 +114,46 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
 </p>
 
 
-#### **Additional Tools and Technologies**
+#### **Even More Tools and Technologies**
 <p>
-  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white">
-  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white">
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white">
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white">
-  <img alt="Thanos" src="https://img.shields.io/badge/Thanos-0088CC.svg?logo=thanos&logoColor=white">
-  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000.svg?logo=splunk&logoColor=white">
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white">
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
-  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white">
-  <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-231F20.svg?logo=apache-kafka&logoColor=white">
-  <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-005571.svg?logo=elasticsearch&logoColor=white">
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white">
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black">
+  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D.svg?logo=vue-dot-js&logoColor=white">
+  <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031.svg?logo=angular&logoColor=white">
+  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next-dot-js&logoColor=white">
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E.svg?logo=nestjs&logoColor=white">
+  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F.svg?logo=spring&logoColor=white">
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white">
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC.svg?logo=tailwind-css&logoColor=white">
+  <img alt="SASS" src="https://img.shields.io/badge/SASS-CC6699.svg?logo=sass&logoColor=white">
+  <img alt="Webpack" src="https://img.shields.io/badge/Webpack-8DD6F9.svg?logo=webpack&logoColor=black">
+  <img alt="Rollup.js" src="https://img.shields.io/badge/Rollup.js-EC4A3F.svg?logo=rollup-dot-js&logoColor=white">
+  <img alt="Babel" src="https://img.shields.io/badge/Babel-F9DC3E.svg?logo=babel&logoColor=black">
+  <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F.svg?logo=electron&logoColor=white">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node-dot-js&logoColor=white">
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white">
+  <img alt="Hugo" src="https://img.shields.io/badge/Hugo-FF4088.svg?logo=hugo&logoColor=white">
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939.svg?logo=jenkins&logoColor=white">
+  <img alt="CircleCI" src="https://img.shields.io/badge/CircleCI-343434.svg?logo=circleci&logoColor=white">
+  <img alt="Travis CI" src="https://img.shields.io/badge/Travis_CI-3EAAAF.svg?logo=travis-ci&logoColor=white">
+  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26.svg?logo=gitlab&logoColor=white">
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black">
+  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white">
+  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white">
+  <img alt="Kibana" src="https://img.shields.io/badge/Kibana-005571.svg?logo=elastic&logoColor=white">
+  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600.svg?logo=rabbitmq&logoColor=white">
+  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white">
+  <img alt="Cassandra" src="https://img.shields.io/badge/Cassandra-1287B1.svg?logo=apache-cassandra&logoColor=white">
+  <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-66CCFF.svg?logo=apache-hadoop&logoColor=black">
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=jupyter&logoColor=white">
+  <img alt="MATLAB" src="https://img.shields.io/badge/MATLAB-0076A8.svg?logo=mathworks&logoColor=white">
+  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white">
+  <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C.svg?logo=python&logoColor=white">
+  <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-66BB6A.svg?logo=python&logoColor=white">
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache_Spark-E25A1C.svg?logo=apachespark&logoColor=white">
+  <img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811.svg?logo=powerbi&logoColor=black">
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white">
+  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe_XD-FF61F6.svg?logo=adobexd&logoColor=white">
 </p>
