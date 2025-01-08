@@ -112,3 +112,22 @@ I am a technology enthusiast with expertise spanning software development, AI/ML
   <a href="https://bsky.app/profile/shuuse.bsky.social"><img src="https://img.shields.io/badge/BlueSky-0057FF?logo=bluesky&logoColor=white&style=for-the-badge" alt="BlueSky"></a>
   <a href="https://github.com/shuuse"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"></a>
 </p>
+
+
+#### **Additional Tools and Technologies**
+<p>
+  <img alt="Go" src="https://img.shields.io/badge/Go-00ADD8.svg?logo=go&logoColor=white">
+  <img alt="Terraform" src="https://img.shields.io/badge/Terraform-7B42BC.svg?logo=terraform&logoColor=white">
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white">
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C.svg?logo=prometheus&logoColor=white">
+  <img alt="Thanos" src="https://img.shields.io/badge/Thanos-0088CC.svg?logo=thanos&logoColor=white">
+  <img alt="Splunk" src="https://img.shields.io/badge/Splunk-000000.svg?logo=splunk&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white">
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5.svg?logo=kubernetes&logoColor=white">
+  <img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000.svg?logo=ansible&logoColor=white">
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Kafka-231F20.svg?logo=apache-kafka&logoColor=white">
+  <img alt="ElasticSearch" src="https://img.shields.io/badge/ElasticSearch-005571.svg?logo=elasticsearch&logoColor=white">
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC.svg?logo=redux&logoColor=white">
+  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white">
+</p>
