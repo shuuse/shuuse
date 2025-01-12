@@ -1,6 +1,6 @@
 <h2 align="center">Hi there 👋, I'm Simen Huuse</h2>
 <p align="center">
-  A passionate technologist from Norway living in the San Francisco Bay Area.
+  A passionate technologist from Norway living in the San Francisco Bay Area
 </p>
 
 <p align="center">
